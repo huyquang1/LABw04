@@ -1,0 +1,14 @@
+C:\Users\ACER\Downloads\LABw04\obj\Debug\net8.0\LABw04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Downloads\LABw04\obj\Debug\net8.0\LABw04.AssemblyInfoInputs.cache
+C:\Users\ACER\Downloads\LABw04\obj\Debug\net8.0\LABw04.AssemblyInfo.cs
+C:\Users\ACER\Downloads\LABw04\obj\Debug\net8.0\LABw04.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\LABw04\bin\Debug\net8.0\LABw04.exe
+C:\Users\ACER\Downloads\LABw04\bin\Debug\net8.0\LABw04.deps.json
+C:\Users\ACER\Downloads\LABw04\bin\Debug\net8.0\LABw04.runtimeconfig.json
+C:\Users\ACER\Downloads\LABw04\bin\Debug\net8.0\LABw04.dll
+C:\Users\ACER\Downloads\LABw04\bin\Debug\net8.0\LABw04.pdb
+C:\Users\ACER\Downloads\LABw04\obj\Debug\net8.0\LABw04.dll
+C:\Users\ACER\Downloads\LABw04\obj\Debug\net8.0\refint\LABw04.dll
+C:\Users\ACER\Downloads\LABw04\obj\Debug\net8.0\LABw04.pdb
+C:\Users\ACER\Downloads\LABw04\obj\Debug\net8.0\LABw04.genruntimeconfig.cache
+C:\Users\ACER\Downloads\LABw04\obj\Debug\net8.0\ref\LABw04.dll
